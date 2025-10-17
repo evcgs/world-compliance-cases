@@ -9,18 +9,6 @@
 world-compliance-cases
 README.md               # 仓库说明文档（本文档）
 cases/                  # 核心案例目录（按“地区/领域”二级分类）
-  region/               # 按地区分类（示例：北美/欧盟/亚太/中国）
-  north-america/        # 北美地区案例（含GDPR/CCPA相关）
-  eu/                   # 欧盟地区案例（含GDPR相关）
-  cn/                   # 中国地区案例（含个人信息保护法、AI等相关）
-  field/                # 按合规领域分类（示例：数据合规/反垄断/环保合规）
-    data-privacy/       # 数据隐私合规案例
-    antitrust/          # 反垄断合规案例
-docs/                   # 辅助文档目录（可选）
-compliance-glossary.md  # 合规术语 glossary（便于新手理解）
-regulatory-updates.md   # 全球合规监管动态（关联案例的政策背景）
-contribution.md         # 贡献规则细则（若需单独拆分，可在此处链接；若简化，可合并至“四、贡献规则”）
-
 ```
 
 # 三、使用指南
