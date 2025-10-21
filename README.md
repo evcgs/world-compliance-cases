@@ -8,7 +8,6 @@
 ```
 world-compliance-cases
 README.md               # 仓库说明文档（本文档）
-cases/                  # 核心案例目录（按“地区/领域”二级分类）
 ```
 
 # 三、使用指南
@@ -19,14 +18,12 @@ cases/                  # 核心案例目录（按“地区/领域”二级分�
 git clone https://gitee.com/evcgs/world-compliance-cases
 ```
 
-## 2. 案例检索
-- 按 地区检索：进入 cases/region/[目标地区] 目录，查找对应国家 / 区域的案例（文件命名格式：年份-案例名称.md，如 2024-eu-gdpr-fine-case.md）
-- 按 领域检索：进入 cases/field/[目标领域] 目录，查找对应合规场景的案例（如数据隐私、反垄断）
-- 辅助检索：可使用本地文档工具（如 Notion、Typora）打开 .md 文件，通过 “关键词搜索” 定位案例（推荐搜索 “企业名称”“监管机构”“处罚金额” 等）
+## 2. 案例数据
+- 分析看板：![看板](picworld_compliance_cases.png)
+- 明细数据：飞书链接：https://f5lfzip8kq.feishu.cn/wiki/J6snwZdnqiFnrcknftRcRbJ9nyb?from=from_copylink   密码：@1B19252
 
-##3. 依赖工具（可选）
-- 文档查看：推荐使用 Typora / [VS Code（安装 Markdown 插件）] 打开 .md 文件，支持目录导航与格式渲染
-- 案例管理（可选）：若需批量整理，可使用 GitBook 同步仓库内容，生成在线案例手册
+##3. 数据提交/修改
+![提交修改](pic%E6%8F%90%E4%BA%A4.png)
 
 # 四、贡献规则
 
