@@ -27,6 +27,10 @@ git clone https://gitee.com/evcgs/world-compliance-cases
 
 ![提交修改](pic%E6%8F%90%E4%BA%A4.png)
 
+## 4. 更新数据查看，后续数据会在群中更新
+
+![合规学习群](%E9%A3%9E%E4%B9%A6%E7%BE%A4.png)
+
 # 四、贡献规则
 
 ## 1. 贡献范围
@@ -50,6 +54,11 @@ git clone https://gitee.com/evcgs/world-compliance-cases
  - ④ 来源链接（需可访问）
 
 # 五、更新日志
+- 版本：V0.0.3
+-- 更新日期：2025-10-21
+-- 更新内容：增加看板及飞书信息同步
+-- 维护者：chenxing
+
 - 版本：V0.0.2
 -- 更新日期：2025-10-18
 -- 更新内容：更新2018~2025数据
@@ -61,7 +70,7 @@ git clone https://gitee.com/evcgs/world-compliance-cases
 -- 维护者：chenxing
 
 # 六、联系与支持
-- 仓库维护者：晨星
+- 仓库维护者：潘冬林/晨星
 - 联系邮箱：`evcgs@qq.com`
 - 问题反馈：可直接在仓库发起 “Issue”，描述问题 / 需求（建议包含 “问题场景 + 期望效果”）
 
