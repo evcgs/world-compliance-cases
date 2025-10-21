@@ -20,12 +20,13 @@ git clone https://gitee.com/evcgs/world-compliance-cases
 
 ## 2. 案例数据
 
-- 分析看板：![看板](picworld_compliance_cases.png)
-- 明细数据：飞书链接：https://f5lfzip8kq.feishu.cn/wiki/J6snwZdnqiFnrcknftRcRbJ9nyb?from=from_copylink   密码：@1B19252
+- 分析看板：![看板](world_compliance_cases.png)
+[访问链接](https://f5lfzip8kq.feishu.cn/share/base/dashboard/shrcnm5J7M08PeF4PTkN8Melg9e)
+- 明细数据：飞书Link: https://f5lfzip8kq.feishu.cn/wiki/J6snwZdnqiFnrcknftRcRbJ9nyb Password: @1B19252
 
 ## 3. 数据提交/修改
 
-![提交修改](pic%E6%8F%90%E4%BA%A4.png)
+![提交修改](%E6%A1%88%E4%BE%8B%E6%8F%90%E4%BA%A4_%E4%BF%AE%E6%94%B9.png)
 
 ## 4. 更新数据查看，后续数据会在群中更新
 
