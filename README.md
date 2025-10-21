@@ -71,7 +71,7 @@ git clone https://gitee.com/evcgs/world-compliance-cases
 -- 维护者：chenxing
 
 # 六、联系与支持
-- 仓库维护者：潘冬林/晨星
+- 维护者：潘冬林/晨星
 - 联系邮箱：`evcgs@qq.com`
 - 问题反馈：可直接在仓库发起 “Issue”，描述问题 / 需求（建议包含 “问题场景 + 期望效果”）
 
@@ -82,7 +82,8 @@ git clone https://gitee.com/evcgs/world-compliance-cases
 
 # 八、AI使用情况
 - 采用AI进行基础信息收集
-- 采用AI进行展示网页开发
+- 采用飞书多维表格进行信息整理、分类提取
+- 采用AI进行展示网页开发【计划下一步】
 - AI整理信息可能有误，尽管进行了事实性错误检查，不排除有其他错误，如有请反馈。
 
 # 九、AI使用步骤
